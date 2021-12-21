@@ -1,1 +1,5 @@
-
+The third trial to import and create a MAUDE data file. This one performs all of the processing of the previous files, plus more. 
+There are three final files for this Trial, instead of one combined one:
+ >MASTER_DEVICE
+ >FOITEXT
+ >PATIENT
