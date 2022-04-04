@@ -23,7 +23,7 @@ Final DPA Results for 'Set 1' (above) and 'Set 2' (below) of devices:
 ![image](https://user-images.githubusercontent.com/95374189/161629281-e95f41c7-ec17-44d0-802e-22453a24d208.png)
 ![image](https://user-images.githubusercontent.com/95374189/161629312-5032c324-dc43-454b-8fa2-165ab8241358.png)
 
-DPA reults from Dr. Ensign's Dissertation:
+DPA reults from Dr. Ensign's Dissertation:<br/>
 <img width="658" alt="Screen Shot 2022-04-04 at 3 49 34 PM" src="https://user-images.githubusercontent.com/95374189/161629688-10874200-fd16-4b6a-9275-8e301b53e016.png">
 
 
