@@ -12,14 +12,14 @@ This project is was undertaken by Krish Inba Rajashankar.
 ### Overview of 'Trials'
 *For a comprehensive 'walk through' of the entire process to import data, process it, create a model, and evaluate it please follow the files in the 'Trial 4' folder in order, which will replicate my results. MAUDE data can be downloaded from the MAUDE Information Website (linked above).*
 
-Trial 1: Original importing and processing of MAUDE data.
-Trial 2: More 'polished' importing and cleaning process of MAUDE data.
-Trial 3: Importing, Processing, running of models, and evaluation of a dataset of ICD Lead MDRs from before 2013. 
-Trial 4: Importing, Processing, running of models, and evaluation of the 'Set 1' and 'Set 2' datasets (2000-2021, ICDs and ICD Leads).
+Trial 1: Original importing and processing of MAUDE data.<br/>
+Trial 2: More 'polished' importing and cleaning process of MAUDE data.<br/>
+Trial 3: Importing, Processing, running of models, and evaluation of a dataset of ICD Lead MDRs from before 2013.<br/>
+Trial 4: Importing, Processing, running of models, and evaluation of the 'Set 1' and 'Set 2' datasets (2000-2021, ICDs and ICD Leads).<br/>
 
 
 ### Disporoportionality Analysis Results Comparison
-Final DPA Results for 'Set 1' (above) and 'Set 2' (below) of devices:
+Final DPA Results for 'Set 1' (above) and 'Set 2' (below) of devices:<br/>
 ![image](https://user-images.githubusercontent.com/95374189/161629281-e95f41c7-ec17-44d0-802e-22453a24d208.png)
 ![image](https://user-images.githubusercontent.com/95374189/161629312-5032c324-dc43-454b-8fa2-165ab8241358.png)
 
