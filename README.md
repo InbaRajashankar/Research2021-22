@@ -7,6 +7,7 @@ This project is was undertaken by Krish Inba Rajashankar.
 - MAUDE Information & Data Download Website: https://www.fda.gov/medical-devices/mandatory-reporting-requirements-manufacturers-importers-and-device-user-facilities/about-manufacturer-and-user-facility-device-experience-maude
 - MAUDE Online Portal: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm
 - Medical Device Recall Database Online Portal: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm
+- Video overview for this repository: https://youtu.be/VVR93hcuvFo
 
 
 ### Overview of 'Trials'
